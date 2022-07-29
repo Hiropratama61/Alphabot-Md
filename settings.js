@@ -33,14 +33,14 @@ global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285226344606'] //premium user
-global.owner = ["622150996855","6285342106390"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285226344606","6285226344606"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285226344606" // nomor wa kalian
 global.ownernomerr = "+6285226344606" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Hiro' //sticker wm ubah
-global.author = 'BOT' //sticker wm ganti nama kalian
+global.packname = '© By' //sticker wm ubah
+global.author = 'Hiro' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
